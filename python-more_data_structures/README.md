@@ -46,6 +46,9 @@ At the end of this project, you should be able to explain:
 | 10 | `10-best_score.py` | Return the key with the highest value |
 | 11 | `11-multiply_list_map.py` | Multiply list values by a number, using `map` |
 | 12 | `12-roman_to_int.py` | Convert a Roman numeral to an integer |
+| 13 | `100-weight_average.py` | Return the weighted average of `(score, weight)` tuples |
+| 14 | `101-square_matrix_map.py` | Square every value of a matrix, using `map` |
+| 15 | `102-complex_delete.py` | Delete all keys with a specific value in a dictionary |
 
 ## Usage
 
