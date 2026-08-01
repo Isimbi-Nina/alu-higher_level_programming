@@ -33,6 +33,10 @@ validation, an `area` method, property-based getters/setters, a
 | `4-square.py` | `Square` with `size` as a property (getter/setter) |
 | `5-square.py` | `Square` with a `my_print` method |
 | `6-square.py` | `Square` with a `position` property affecting `my_print` |
+| `100-singly_linked_list.py` | `Node` and `SinglyLinkedList` classes, with sorted insertion |
+| `101-square.py` | `Square` that is printable (`__str__` mirrors `my_print`) |
+| `102-square.py` | `Square` supporting comparison operators based on area |
+| `103-magic_class.py` | `MagicClass`, reconstructed from Python bytecode |
 
 ## Usage
 
